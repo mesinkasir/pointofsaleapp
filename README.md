@@ -1,12 +1,12 @@
 # pointofsaleapp
 Toko Point of sale web apps - gratis download full source code
 
-###simple point of sale with the ART !!
+### simple point of sale with the ART !!
 
 ![POS app online](https://1.bp.blogspot.com/-Bf0feDmSabI/XtxH0wA12wI/AAAAAAAAJ1g/IfVwKwX-tkIFCy-f5fZI1C4GQvwRJrWQACK4BGAsYHg/d/topos%2Bweb%2Bapps%2Bnew%2Bsource%2Bcode%2Bpos.jpg)
  Web app simple for using transactions
  
- ![POS app online](https://1.bp.blogspot.com/-Bf0feDmSabI/XtxH0wA12wI/AAAAAAAAJ1g/IfVwKwX-tkIFCy-f5fZI1C4GQvwRJrWQACK4BGAsYHg/d/topos%2Bweb%2Bapps%2Bnew%2Bsource%2Bcode%2Bpos.jpg)
+ ![POS app online](https://1.bp.blogspot.com/-PqXNBDymGvA/XtxNIiRUS2I/AAAAAAAAJ14/8-JWs2LqtiQCVUC-xg_Upj7yR6ZZnAXNACK4BGAsYHg/d/login%2Btopos.png)
  Login area 
  
  
