@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# pointofsaleapp
+Toko Point of sale web apps - gratis download full source code
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/pointofsaleapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### simple point of sale with the ART !!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![POS app online](https://1.bp.blogspot.com/-Bf0feDmSabI/XtxH0wA12wI/AAAAAAAAJ1g/IfVwKwX-tkIFCy-f5fZI1C4GQvwRJrWQACK4BGAsYHg/d/topos%2Bweb%2Bapps%2Bnew%2Bsource%2Bcode%2Bpos.jpg)
+ 
+Web app simple for using transactions
+ 
+ ![POS app online](https://1.bp.blogspot.com/-PqXNBDymGvA/XtxNIiRUS2I/AAAAAAAAJ14/8-JWs2LqtiQCVUC-xg_Upj7yR6ZZnAXNACK4BGAsYHg/d/login%2Btopos.png)
 
-### Markdown
+ Login area 
+ 
+ 
+ ![POS app online](https://1.bp.blogspot.com/-ZWY32FiadvA/XtxNSyCKflI/AAAAAAAAJ2E/iSiVWn9DknUnLjvs_mxNGrv69R-RFLECwCK4BGAsYHg/d/menus.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ Home Menu's 
+ 
+ 
+ ![POS app online](https://1.bp.blogspot.com/--8nnB7qjGnM/XtxNoSGkpII/AAAAAAAAJ2c/697LKF6pgrAD8XnSG_nwtF4gDiGu18vLQCK4BGAsYHg/d/prodcusts.png)
 
-```markdown
-Syntax highlighted code block
+Product Databased
+ 
+ ![POS app online](https://1.bp.blogspot.com/-3kT5DWfD-Is/XtxN7sxnG6I/AAAAAAAAJ2w/VqTql3ZBMNERAg95UtWrDAF4cYq0sMC1wCK4BGAsYHg/d/topos11.png)
 
-# Header 1
-## Header 2
-### Header 3
+Point of sale features
+ 
+ ![POS app online](https://1.bp.blogspot.com/-U0Oc7Uct5Vw/XtxOGeo-iAI/AAAAAAAAJ28/S_vmeR5zqwMPifcviJZsWjIASHYf_AhxgCK4BGAsYHg/d/report%2Bdetails.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/pointofsaleapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Report details.
+ 
+ 
+How to install :  [Play Tutorial →](https://www.youtube.com/playlist?list=PLQDm6k9_HvYMeHOaWAttWbJFThDCHLMgu)
