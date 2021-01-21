@@ -30,4 +30,4 @@ Point of sale features
 Report details.
  
  
-How to install :  [Play Tutorial →](https://www.youtube.com/playlist?list=PLQDm6k9_HvYMeHOaWAttWbJFThDCHLMgu)
+How to install :  [Play Tutorial →](https://www.youtube.com/playlist?list=PLQDm6k9_HvYMeHOaWAttWbJFThDCHLMgu) [Documentation full →](https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-online-topos.html)
