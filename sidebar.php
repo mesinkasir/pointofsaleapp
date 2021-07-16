@@ -80,4 +80,3 @@
         <!--sidebar nav end-->
     </div>
 </div>
-<!-- https://demo.dealpos.com/A/POS.aspx -->
