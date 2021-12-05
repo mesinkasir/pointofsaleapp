@@ -3,6 +3,10 @@ Toko Point of sale web apps - gratis download full source code
 
 ### simple point of sale with the ART !!
 
+Documentation [https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-online-topos.html](https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-online-topos.html)
+
+[tes live demo →](https://axcora.my.id/topos/topos.php)
+
 ![POS app online](https://1.bp.blogspot.com/-Bf0feDmSabI/XtxH0wA12wI/AAAAAAAAJ1g/IfVwKwX-tkIFCy-f5fZI1C4GQvwRJrWQACK4BGAsYHg/d/topos%2Bweb%2Bapps%2Bnew%2Bsource%2Bcode%2Bpos.jpg)
  
 Web app simple for using transactions
