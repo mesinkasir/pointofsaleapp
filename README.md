@@ -5,7 +5,7 @@ Toko Point of sale web apps - gratis download full source code
 
 Documentation [https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-online-topos.html](https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-online-topos.html)
 
-[tes live demo →](https://axcora.my.id/topos/topos.php)
+tes live demo →[https://axcora.my.id/topos](https://axcora.my.id/topos/topos.php)
 
 ![POS app online](https://1.bp.blogspot.com/-Bf0feDmSabI/XtxH0wA12wI/AAAAAAAAJ1g/IfVwKwX-tkIFCy-f5fZI1C4GQvwRJrWQACK4BGAsYHg/d/topos%2Bweb%2Bapps%2Bnew%2Bsource%2Bcode%2Bpos.jpg)
  
@@ -35,3 +35,8 @@ Report details.
  
  
 How to install :  [Play Tutorial →](https://www.youtube.com/playlist?list=PLQDm6k9_HvYMeHOaWAttWbJFThDCHLMgu) [Documentation full →](https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-online-topos.html)
+
+
+Documentation [https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-online-topos.html](https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-online-topos.html)
+
+tes live demo →[https://axcora.my.id/topos](https://axcora.my.id/topos/topos.php)
