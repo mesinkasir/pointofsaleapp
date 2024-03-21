@@ -8,7 +8,30 @@ Documentation [https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-onli
 tes live demo →[https://axcora.my.id/topos](https://axcora.my.id/topos/topos.php)
 
 ![POS app online](https://1.bp.blogspot.com/-Bf0feDmSabI/XtxH0wA12wI/AAAAAAAAJ1g/IfVwKwX-tkIFCy-f5fZI1C4GQvwRJrWQACK4BGAsYHg/d/topos%2Bweb%2Bapps%2Bnew%2Bsource%2Bcode%2Bpos.jpg)
+
+
+----------------------------------------
+
+### 💖 Thanks for Sponsor 🤞
+
+![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)
+
+----------------------------------------
+
+### 🥇 Supporter 👨🏻‍🚀
+
+![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)
+
+-----------------------------------------------------------
+
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+[Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
+
  
+-----------------------------------------------------------
+
 Web app simple for using transactions
  
  ![POS app online](https://1.bp.blogspot.com/-PqXNBDymGvA/XtxNIiRUS2I/AAAAAAAAJ14/8-JWs2LqtiQCVUC-xg_Upj7yR6ZZnAXNACK4BGAsYHg/d/login%2Btopos.png)
@@ -41,4 +64,9 @@ Documentation [https://www.hockeycomputindo.com/2020/06/gratis-aplikasitoko-onli
 
 tes live demo →[https://axcora.my.id/topos](https://axcora.my.id/topos/topos.php)
 
-<a href="https://www.buymeacoffee.com/axcora"><img width="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA9HMwkK8kr7uRwVNxnhXsLQsJHxQQYVSzqCAaK58OpJOiTlzbIX7eEwS_VpJ3oEG-xrmVEl2WKqGvB_o-KjyBGTbbjFHM_bN2Jce9g3FTnt2ZJViwcvB9DHPOKPEMCl7jTQRVWKPw_ETloH7_CK8Xr09SSNNx22xnfGjViwdEsGtR-yGrLmr-JUGHA/s1090/bmc-button.png"/></a>
+-----------------------------------------------------------
+
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+[Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
