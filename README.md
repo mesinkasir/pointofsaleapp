@@ -14,13 +14,13 @@ tes live demo →[https://axcora.my.id/topos](https://axcora.my.id/topos/topos.p
 
 ### 💖 Thanks for Sponsor 🤞
 
-![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)
+[![https://www.adamdjbrett.com/](https://github.com/adamdjbrett/adamdjbrett.github.io/blob/master/assets/img/open-graph-logo.png?raw=true)](https://www.adamdjbrett.com/)
 
 ----------------------------------------
 
 ### 🥇 Supporter 👨🏻‍🚀
 
-![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)
+[![https://github.com/adamdjbrett](https://avatars.githubusercontent.com/u/22662978?s=70&v=4)](https://github.com/adamdjbrett)
 
 -----------------------------------------------------------
 
@@ -29,7 +29,7 @@ tes live demo →[https://axcora.my.id/topos](https://axcora.my.id/topos/topos.p
 
 [Paypall](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JVZVXBC4N9DAN) [Gumroad](https://creativitaz.gumroad.com/l/coffee) [Github Sponsor](https://github.com/sponsors/mesinkasir)
 
- 
+
 -----------------------------------------------------------
 
 Web app simple for using transactions
